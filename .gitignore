@@ -1,0 +1,20 @@
+# transient run output + scratch
+logs/
+_tmp/
+**/__pycache__/
+
+# Godot per-project caches / import + C# build artifacts
+.godot/
+**/.godot/
+*.import
+**/.mono/
+**/obj/
+**/bin/
+*.dll
+*.pdb
+
+# the harness files only ever exist transiently inside a target project
+**/_godotkit_harness.gd
+**/_godotkit_harness.tscn
+**/_godotkit_report.gd
+**/_godotkit_report.tscn

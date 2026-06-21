@@ -1,0 +1,13 @@
+; godot-kit C# (.NET) smoke-test fixture (Godot 4.4 mono). See sops/05-csharp-setup.md.
+config_version=5
+
+[application]
+config/name="csproof"
+run/main_scene="res://main.tscn"
+
+[display]
+window/size/viewport_width=640
+window/size/viewport_height=360
+
+[dotnet]
+project/assembly_name="csproof"

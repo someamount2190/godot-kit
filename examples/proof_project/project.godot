@@ -1,0 +1,13 @@
+; godot-kit GDScript smoke-test fixture (Godot 4.4). Passive scene -> capturable.
+config_version=5
+
+[application]
+config/name="godotkit-proof"
+run/main_scene="res://world.tscn"
+
+[display]
+window/size/viewport_width=640
+window/size/viewport_height=360
+
+[rendering]
+renderer/rendering_method="forward_plus"
