@@ -67,6 +67,12 @@ LEARNINGS.md          append-only, verified-only fix log
 examples/             GDScript + C# smoke fixtures
 ```
 
+## Support
+
+If godot-kit saved you some time, tips are welcome at this EVM address (ETH, USDC, etc. on Ethereum, Base, Arbitrum, Optimism or Polygon):
+
+`0xD3b3d18C871e7dd36489915A6dd83a32eFD7829f`
+
 ## License
 
 [MIT](LICENSE) © 2026 Christian Correa
